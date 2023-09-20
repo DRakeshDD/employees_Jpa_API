@@ -14,6 +14,10 @@ import java.util.*;
 import com.example.employee.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+<<<<<<< HEAD
+=======
+import org.springframework.beans.factory.annotation.Autowired;
+>>>>>>> commited 2
 
 @Repository
 

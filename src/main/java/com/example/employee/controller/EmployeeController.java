@@ -41,4 +41,8 @@ public class EmployeeController {
     public void deleteEmployee(@PathVariable("employeeId") int employeeId) {
         employeeService.deleteEmployee(employeeId);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> commited 2
